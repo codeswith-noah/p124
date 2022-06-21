@@ -1,0 +1,30 @@
+body{
+    text-align:center;
+}
+
+#heading{
+    text-align:center;
+    width:100%;
+}
+
+.footer {
+    position: fixed;
+    padding-top:10px;
+    left: 0;
+    bottom: 0;
+    height: 4%;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size:15px;
+    z-index: 1;
+}
+
+#myCanvas{
+    background-color:#0000;
+    border: 5px solid black;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+    margin-top:30px;
+}
